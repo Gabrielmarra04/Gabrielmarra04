@@ -5,8 +5,8 @@
 - 📫 Contate-me no email: yurimarrababa@gmail.com
   
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Gabrielmarra04&show_icons=true&theme=radical">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmarra04&hide_progress=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielmarra04&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmarra04&hide_progress=true&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
