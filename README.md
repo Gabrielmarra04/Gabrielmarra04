@@ -1,5 +1,6 @@
 ## Opa, bão demais? 👋
 
+- 😎 Me chamo Gabriel Yuri, tenho 22 anos e atualmente estou morando em Belo Horizonte-MG
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistema pela PUC Minas (2024)
 - 🌱 Estudando de tudo e um pouco mais! 
 - 📫 Contate-me no email: yurimarrababa@gmail.com
@@ -7,6 +8,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielmarra04&show_icons=true&theme=radical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmarra04&hide_progress=true&theme=radical">
+  
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,10 +27,11 @@
   
 </div>
 
- ![snake gif](https://github.com/Gabrielmarra04/Gabrielmarra04/blob/output/github-contribution-grid-snake.svg)
-
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielmarra04/Gabrielmarra04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielmarra04/Gabrielmarra04/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabrielmarra04/Gabrielmarra04/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+<br><br><br><br>
