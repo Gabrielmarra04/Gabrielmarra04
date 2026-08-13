@@ -1,15 +1,10 @@
 ## Opa, bão demais? 👋
 
-- 😎 Me chamo Gabriel Yuri, tenho 22 anos e atualmente estou morando em Belo Horizonte-MG
+- 😎 Me chamo Gabriel Yuri, tenho 23 anos e atualmente estou morando em Belo Horizonte-MG
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistema pela PUC Minas (2024)
-- 🌱 Estudando de tudo e um pouco mais! 
+- 🌱 Estudando de tudo e um pouco mais!
+- 💻 Atualmente trabalho como QA Engineer Jr.
 - 📫 Contate-me no email: yurimarrababa@gmail.com
-  
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielmarra04&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmarra04&hide_progress=true&theme=radical">
-  
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
